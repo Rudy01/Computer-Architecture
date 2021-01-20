@@ -1,0 +1,39 @@
+Read in 81 micro instructions
+Read in 122 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+
+ProgramCounter : 0000000000100100  base 10:      36
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111100000000  base 10:   65280
+TempInstr      : 1000000000000000  base 10:   32768
+StackPointer   : 0000100000000000  base 10:    2048
+ARegister      : 0000000000000001  base 10:       1
+BRegister      : 0000000000000000  base 10:       0
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000000  base 10:       0
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 34593469
+
+Type decimal address to view memory,  q  to quit or  c  to continue:  
+     the location    0 has value 0000000001110011 , or   115  or signed    115
+Type  <Enter>  to continue debugging
+Type        q  to quit
+Type        f for forward range
+Type        b for backward range: f
+Type the number of forward locations to dump: 10
+     the location    1 has value 0101000000100011 , or 20515  or signed  20515
+     the location    2 has value 0011000001110001 , or 12401  or signed  12401
+     the location    3 has value 0001000001110011 , or  4211  or signed   4211
+     the location    4 has value 0000000001101110 , or   110  or signed    110
+     the location    5 has value 1111000000000000 , or 61440  or signed  -4096
+     the location    6 has value 0010000001110001 , or  8305  or signed   8305
+     the location    7 has value 0001000001101110 , or  4206  or signed   4206
+     the location    8 has value 1110000000010000 , or 57360  or signed  -8176
+     the location    9 has value 1111110000000001 , or 64513  or signed  -1023
+     the location   10 has value 1111010000000000 , or 62464  or signed  -3072
+Type decimal address to view memory,  q  to quit or  c  to continue: q
+MIC-1 emulator finishing, goodbye

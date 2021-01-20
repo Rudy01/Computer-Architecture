@@ -1,0 +1,64 @@
+please enter a floating point number and new-line: 237.75
+
+the floating value for 237.75 is broken out as: 
+	the base 10 float result is: 237.75
+	the base 10 int result is: 1131266048
+	components in hex are: 436dc000
+	components in binary are: 0 1000 0110 110 1101 1100 0000 0000 0000  
+
+	matissa:	0x6dc000	or: 110 1101 1100 0000 0000 0000
+	exponent:	0x86		or: 1000 0110
+	sign:		0		or: 0
+	in base 10:	237.75		or: 0 1000 0110 110 1101 1100 0000 0000 0000
+***************************************************************************************************
+please enter a floating point number and new-line: -.0000005126
+
+the floating value for -5.126e-07 is broken out as: 
+	the base 10 float result is: -5.126e-07
+	the base 10 int result is: -1257662053
+	components in hex are: b509999b
+	components in binary are: 1 0110 1010 000 1001 1001 1001 1001 1011  
+
+	matissa:	0x9999b	or: 000 1001 1001 1001 1001 1011
+	exponent:	0x6a		or: 0110 1010
+	sign:		1		or: 1
+	in base 10:	-5.126e-07		or: 1 0110 1010 000 1001 1001 1001 1001 1011
+***************************************************************************************************
+please enter a floating point number and new-line: -92457321.670245          
+
+the floating value for -9.24573e+07 is broken out as: 
+	the base 10 float result is: -9.24573e+07
+	the base 10 int result is: -860858067
+	components in hex are: ccb0592d
+	components in binary are: 1 1001 1001 011 0000 0101 1001 0010 1101  
+
+	matissa:	0x30592d	or: 011 0000 0101 1001 0010 1101
+	exponent:	0x99		or: 1001 1001
+	sign:		1		or: 1
+	in base 10:	-9.24573e+07		or: 1 1001 1001 011 0000 0101 1001 0010 1101
+***************************************************************************************************
+please enter a floating point number and new-line: 6.023E+23
+
+the floating value for 6.023e+23 is broken out as: 
+	the base 10 float result is: 6.023e+23
+	the base 10 int result is: 1727993215
+	components in hex are: 66ff157f
+	components in binary are: 0 1100 1101 111 1111 0001 0101 0111 1111  
+
+	matissa:	0x7f157f	or: 111 1111 0001 0101 0111 1111
+	exponent:	0xcd		or: 1100 1101
+	sign:		0		or: 0
+	in base 10:	6.023e+23		or: 0 1100 1101 111 1111 0001 0101 0111 1111
+***************************************************************************************************
+please enter a floating point number and new-line: 1.67339E-40
+
+the floating value for 1.67339e-40 is broken out as: 
+	the base 10 float result is: 1.67339e-40
+	the base 10 int result is: 119417
+	components in hex are: 0001d279
+	components in binary are: 0 0000 0000 000 0001 1101 0010 0111 1001  
+
+	matissa:	0x1d279	or: 000 0001 1101 0010 0111 1001
+	exponent:	0x0		or: 0000 0000
+	sign:		0		or: 0
+	in base 10:	1.67339e-40		or: 0 0000 0000 000 0001 1101 0010 0111 1001
